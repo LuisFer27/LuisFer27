@@ -76,32 +76,67 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://smile.amazon.de/dp/B071HFVY7J?&tag=pwis09-21">
-          <img src="https://m.media-amazon.com/images/I/61SS2CzBaNL.jpg" width="120" alt="Cracking eCommerce for fun and profit" />
-          <br />
-          <sub><b>Cracking eCommerce for fun and profit</b></sub>
-      </a>
+          <img src="https://lh3.googleusercontent.com/d/1h_kC_oSOWJZUKlc0mnl_SHEZYjuyjuMQ" width="120" alt="nomenclatura" />
+      <br/>
+  <sub><b>Nomenclatura</b></sub>
+          <br/>
+        <sub>Colabore en el diseño en el funcionamiento correcto de la interfaz de igual forma realice la conexión a la base de datos y alamcenado del los mismos.</sub>
       <br />
-      <sub>Peter Wilfahrt</sub>
     </td>
     <td align="center">
-          <img src="https://drive.google.com/file/uc?id=1Rftztrvhp_qvtVN6BGNXiAYpUUVXkAN2" width="120" alt="Chasing Digital Excellence" />
+          <img src="https://lh3.googleusercontent.com/d/1Rftztrvhp_qvtVN6BGNXiAYpUUVXkAN2" width="120" alt="Carfianza" />
           <br />
-          <sub><b>Chasing Digital Excellence</b></sub>
+          <sub><b>Carfianza </b></sub>
+          <br/>
+        <sub> Colabore en el diseño del sitio web y al igual añadiendo caracteristicas al proyecto.</sub>
       <br />
-      <sub>Peter Wilfahrt</sub>
     </td>
     <td align="center">
-      <a href="https://smile.amazon.de/dp/1521135452?&tag=pwis09-21">
-          <img src="https://images-na.ssl-images-amazon.com/images/I/51OV4nPc5XL._SX331_BO1,204,203,200_.jpg" width="120" alt="Cracking eCommerce for fun and profit" />
+          <img src="https://lh3.googleusercontent.com/d/1MO2fn9A1K6BwTIIocBRtCFkkXmmOZ3w3" width="120" alt="Spif" />
           <br />
-          <sub><b>Cracking eCommerce for fun and profit</b></sub>
-      </a>
+          <sub><b>Spif</b></sub>
+      <br/>
+         <sub>Colabore en la conexión los apartados backend del sitio de igual forma fue el primero proyecto en el cual empece a usar los frameworks de laravel y angular de </sub>
       <br />
-      <sub>Peter Wilfahrt</sub>
+    </td>
+        <td align="center">
+          <img src="https://lh3.googleusercontent.com/d/1kU7PVMA2SckdiTIdqSGCGDisLn49BMwP" width="120" alt="Transporte" />
+          <br />
+          <sub><b>Transportes</b></sub>
+      <br/>
+         <sub>Colabore en la conexión los apartados backend y creación de consultas a partir de la base de datos ademas de ser un proyecto institucional por lo cual no se puede mostrar más imagenes</sub>
+      <br/>
+    </td>
+  </tr>
+</table>
+</br>
+
+## 2021 Asesoria en Capacitación en Riesgos Industriales ACRI.S.C
+<table align="center">
+  <tr>
+    <td align="center">
+          <img src="https://lh3.googleusercontent.com/d/1ady72SVe0edg-Bxa6IQ0NI_A_9NSrqzJ" width="120" alt="Agenda"/>
+      <br/>
+  <sub><b>Agenda de Contactos </b></sub>
+          <br/>
+        <sub>Colabore en la creación de un sistema para guardar contactos de clientes internos y externos de la empresa basado en java puro con jframes </sub>
+      <br />
+    </td>
     </td>
   </tr>
 </table>
 
-
-<!------------------------->
+## 2021 Grupo Ancor
+<table align="center">
+  <tr>
+    <td align="center">
+          <img src="https://lh3.googleusercontent.com/d/1Az597sdVyHGXUYiYkGA0jMKmnAWI9SK8" width="120" alt="Ancor"/>
+      <br/>
+  <sub><b>Sistema Ancor </b></sub>
+          <br/>
+        <sub>Colabore en la creación de un sistema que permite guardar productos que se llegaba a realizar encargo mediante el uso html,php,bootstrap y js.</sub>
+      <br />
+    </td>
+    </td>
+  </tr>
+</table>

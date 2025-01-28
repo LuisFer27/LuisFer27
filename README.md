@@ -1,13 +1,13 @@
-<h1 align="center">Hola 👋 soy Luis Fernando Mendez Barrera / LuisFer27 ✨ </h1> 
+<h1 align="center">Hola 👋 soy Luis Fernando Mendez Barrera / LuisFer27 bienvenido a mi portafolio ✨ </h1> 
 
 <p align="left">
-<a href="https://linkedin.com/in/luis-fernando-méndez-barrera-211b59172" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LuisFer27"/>
+<a href="www.linkedin.com/in/luis-fernando-méndez-barrera-211b59172" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LuisFer27"/>
 </a>
 <a href = "mailto:luis.fernando.mendez.barrera2708@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@LuisFer27"/></a>
   </p>
 <br>
 <!--Intro start-->
-
+<img align="right" src="https://www.kindpng.com/picc/m/274-2748314_freetoedit-menherachan-animegirl-animecute-png-kawaii-anime-girl.png" height="300" width="300">
 <p align="left">
 🎓 INGENIERO EN TECNOLOGÍAS DE LA INFORMACIÓN
 
@@ -20,6 +20,10 @@
 <!--Intro end-->
   </p>
 <br>
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/12183460373)
 
 ## 🛠️ Mis habilidades
 
@@ -70,7 +74,9 @@
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macOS&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white)
 
-<h1>Algunos proyectos👨🏻‍💻</h1>
+<h1>Algunos proyectos para empresas👨🏻‍💻</h1>
+
+ Nota: Los proyectos que se mencionan aquí no contienen enlaces de descarga del repositorio debido a acuerdos de confidencialidad y uso de herramientas proporcionadas por las empresas las imagenes que se muestran solo son para uso ilustrartivo del proyecto.
 
 ## 2022-2024 Anemona
 <table align="center">
@@ -135,6 +141,21 @@
   <sub><b>Sistema Ancor </b></sub>
           <br/>
         <sub>Colabore en la creación de un sistema que permite guardar productos que se llegaba a realizar encargo mediante el uso html,php,bootstrap y js.</sub>
+      <br />
+    </td>
+    </td>
+  </tr>
+</table>
+
+## 2019 Helicom
+<table align="center">
+  <tr>
+    <td align="center">
+          <img src="https://lh3.googleusercontent.com/d/1I6R-WHP3XrppvrpJkOKlfBgHhyoZp4uc" width="120" alt="Helicom"/>
+      <br/>
+  <sub><b>Mantenimiento Helicom</b></sub>
+          <br/>
+        <sub>Colabore en la creación de un aplicación móvil empleando java para android con el entorno de desarrollo android studio.</sub>
       <br />
     </td>
     </td>

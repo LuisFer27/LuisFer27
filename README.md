@@ -75,7 +75,7 @@
 
 <h1>Algunos proyectos para empresas👨🏻‍💻</h1>
 
- Nota: Los proyectos que se mencionan aquí no contienen enlaces de descarga del repositorio debido a acuerdos de confidencialidad y uso de herramientas proporcionadas por las empresas las imagenes que se muestran solo son para uso ilustrartivo del proyecto.
+ Nota: Los proyectos que se mencionan aquí no contienen enlaces de descarga del repositorio debido a acuerdos de confidencialidad y uso de herramientas proporcionadas por las empresas las imagenes que se muestran solo son para uso ilustrativo del proyecto.
 
 ## 2022-2024 Anemona
 <table align="center">
@@ -154,7 +154,7 @@
       <br/>
   <sub><b>Mantenimiento Helicom</b></sub>
           <br/>
-        <sub>Colabore en la creación de un aplicación móvil empleando java para android con el entorno de desarrollo android studio.</sub>
+        <sub>Colabore en la creación de una aplicación móvil empleando java para android con el entorno de desarrollo android studio.</sub>
       <br />
     </td>
     </td>

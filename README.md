@@ -22,8 +22,7 @@
 <br>
 
 ### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/12183460373)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12183460373&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.kittinanx.com/api/view?uid=12183460373&redirect=true)
 
 ## 🛠️ Mis habilidades
 

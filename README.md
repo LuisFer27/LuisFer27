@@ -7,7 +7,7 @@
   </p>
 <br>
 <!--Intro start-->
-<img align="right" src="https://www.kindpng.com/picc/m/274-2748314_freetoedit-menherachan-animegirl-animecute-png-kawaii-anime-girl.png" height="300" width="300">
+<!--<img align="right" src="https://www.kindpng.com/picc/m/274-2748314_freetoedit-menherachan-animegirl-animecute-png-kawaii-anime-girl.png" height="300" width="300">-->
 <p align="left">
 🎓 INGENIERO EN TECNOLOGÍAS DE LA INFORMACIÓN
 
@@ -21,8 +21,8 @@
   </p>
 <br>
 
-### Reproduciendo 🎧
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12183460373&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.kittinanx.com/api/view?uid=12183460373&redirect=true)
+[comment]: ### (Reproduciendo 🎧)
+[comment]:([![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12183460373&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.kittinanx.com/api/view?uid=12183460373&redirect=true))
 
 ## 🛠️ Mis habilidades
 

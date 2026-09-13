@@ -76,6 +76,31 @@
 <h1>Algunos proyectos para empresas👨🏻‍💻</h1>
 
  Nota: Los proyectos que se mencionan aquí no contienen enlaces de descarga del repositorio debido a acuerdos de confidencialidad y uso de herramientas proporcionadas por las empresas las imagenes que se muestran solo son para uso ilustrativo del proyecto.
+## 2025 Demoños agencia 
+<table align="center">
+  <tr>
+    <td align="center">
+          <a href="https://demoniosagencia.com/"></a>
+      <br/>
+  <sub><b> Sitio Demoños Agencia.</b></sub>
+          <br/>
+        <sub>Creación y funcionamiento del sitio, mantenimiento constante e implementación de SEO y manejo de analytics. </sub>
+      <br />
+    </td>
+    <td align="center">
+          <a href=" https://triogourmet.com.mx/"></a>
+          <br />
+          <sub><b>Sitio Trío Gourmet. </b></sub>
+          <br/>
+        <sub> Creación del sitio y funcionamiento del sitio , mantenimiento constante e implementación de pagos con mercado pago en proceso, SEO y manejo de analíticos.</sub>
+      <br />
+    </td>
+  </tr>
+</table>
+</br>
+
+
+ 
 
 ## 2022-2024 Anemona
 <table align="center">

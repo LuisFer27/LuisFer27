@@ -80,7 +80,7 @@
 <table align="center">
   <tr>
     <td align="center">
-          <a href="https://demoniosagencia.com/"></a>
+          <a href="https://demoniosagencia.com/">Sitio Demoños Agencia</a>
       <br/>
   <sub><b> Sitio Demoños Agencia.</b></sub>
           <br/>
@@ -88,7 +88,7 @@
       <br />
     </td>
     <td align="center">
-          <a href=" https://triogourmet.com.mx/"></a>
+          <a href="https://triogourmet.com.mx/">Sitio Trío Gourmet</a>
           <br />
           <sub><b>Sitio Trío Gourmet. </b></sub>
           <br/>
